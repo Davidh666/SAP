@@ -1,0 +1,48 @@
+# ==============================================================================
+# EXCLUSIONES DE CONTROL DE VERSIONES - SAP LITE ERP
+# ==============================================================================
+
+# --- Seguridad y Credenciales Privadas ---
+# Bloquea el archivo real que contiene las contraseñas de la base de datos
+.env
+*.env
+backend/.env
+
+# --- Entornos Virtuales de Python (Backend) ---
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# --- Dependencias de Node / React (Frontend) ---
+node_modules/
+/frontend/node_modules/
+dist/
+/frontend/dist/
+.eslintcache
+.vite/
+
+# --- Base de Datos Local y Docker ---
+.docker/
+# Ignora archivos temporales o respaldos de SQL si los descargas en la raíz
+*.log
+*.sqlite
+
+# --- Configuraciones del Editor de Código (VS Code / IDEs) ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# --- Sistema Operativo ---
+DS_Store
+Thumbs.db
