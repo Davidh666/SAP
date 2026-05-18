@@ -86,7 +86,7 @@ git commit -m "feat: descripción corta de lo que añadiste o arreglaste"
 git push origin feature/nombre-de-tu-caracteristica
 ```
 ### 5. Entra a git hub verifica que se subio a la nueva rama (para ver en que rama estas a un costado sale principal eso cambialo a tu rama que creaste) una vez estando ahi se te saldra un pull request ,  luego agrega el comentario y presiona enviar y listo
-```
+<br>
 
 
 # 🚀 Crear y administrar contenedor con Docker Compose
@@ -107,22 +107,22 @@ git push origin feature/nombre-de-tu-caracteristica
 4. **Encender el contenedor**  
    Ejecuta:
 
-
+```bash
    docker-compose up -d
 ```
 5. **Comprobar el estado del contenedor**  
    Ejecuta:
-   ```bash
+```bash
    docker-compose ps
-
+```
 6. **Detener el contenedor**
    Ejecuta:
-   ```bash
+```bash
    docker-compose down
-
+```
 7. **Reiniciar el contenedor**
    Ejecuta:
-   ```bash
+```bash
    docker-compose restart
 
 ```
