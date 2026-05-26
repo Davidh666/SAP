@@ -1,0 +1,21 @@
++---------------------------------------------------------------------------------------------------------------------------------+
+| [LOGO] ERPSystem       |  [🔍 Buscar en el historial de clientes...]                                        [🔔] [⚙️]  👤 D. Jesus |
+|------------------------+--------------------------------------------------------------------------------------------------------|
+|                        |                                                                                                        |
+|  🏠 Inicio / Dashboard |   📌 Customer Experience (CRM) > Perfil de Cliente                                                    |
+|                        |                                                                                                        |
+|  📦 MM - Inventario    |   +------------------------------------------------------------------------------------------------+   |
+|                        |   | 👤 Ficha del Cliente: Constructora del Oriente S.R.L.                                          |   |
+|  💰 FI/CO - Finanzas   |   | Categoría: ⭐ Cliente VIP  |  País: Bolivia  |  Última interacción: Hace 2 horas                |   |
+|                        |   +------------------------------------------------------------------------------------------------+   |
+|  🛒 SD - Ventas        |                                                                                                        |
+|                        |   +------------------------------------------------------------------------------------------------+   |
+| >👥 CRM - Clientes     |   | ✨ Recomendaciones Personalizadas por Inteligencia Artificial (SAP HANA Real-Time)            |   |
+|                        |   |------------------------------------------------------------------------------------------------|   |
+|                        |   | Basado en su comportamiento de compra recurrente, la IA sugiere ofrecer:                       |   |
+|                        |   |                                                                                                |   |
+|                        |   |  [📦 Item A: Cemento Estructural]     [📦 Item B: Fierro Corrugado]    [📦 Item C: Aditivos]    |   |
+|                        |   |  Probabilidad Compra: 94%             Probabilidad Compra: 88%         Probabilidad Compra: 71% |   |
+|                        |   +------------------------------------------------------------------------------------------------+   |
+|                        |                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------+

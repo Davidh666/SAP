@@ -1,0 +1,18 @@
++---------------------------------------------------------------------------------------------------------------------------------+
+| [LOGO] ERPSystem       |  [🔍 Buscar cotizaciones, pedidos, clientes...]                                    [🔔] [⚙️]  👤 D. Jesus |
+|------------------------+--------------------------------------------------------------------------------------------------------|
+|                        |                                                                                                        |
+|  🏠 Inicio / Dashboard |   📌 Ventas y Distribución > Crear Pedido                                                             |
+|                        |                                                                                                        |
+|  📦 MM - Inventario    |   +-------------------------------------------------------+  +-------------------------------------+   |
+|                        |   | 🛒 Formulario: Nuevo Pedido de Venta                  |  | 📑 Historial Reciente de Órdenes    |   |
+|  💰 FI/CO - Finanzas   |   |                                                       |  |-------------------------------------|   |
+|                        |   |  Cliente:   [ Seleccionar Cliente             v ]     |  | Pedido #5521 - Cliente ABC          |   |
+| >🛒 SD - Ventas        |   |  Producto:  [ ID del Producto o Nombre        v ]     |  | Status: 🔵 Enviado                  |   |
+|                        |   |  Cantidad:  [ 100                           ]         |  |                                     |   |
+|  👥 CRM - Clientes     |   |  Pago:      [ Transferencia Bancaria          v ]     |  | Pedido #5520 - Cliente XYZ          |   |
+|                        |   |                                                       |  | Status: 🟢 Facturado                |   |
+|                        |   |  [ Cancelar ]                 [ 💾 Guardar Pedido ]   |  |                                     |   |
+|                        |   +-------------------------------------------------------+  +-------------------------------------+   |
+|                        |                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------+
